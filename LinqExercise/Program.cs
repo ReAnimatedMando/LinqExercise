@@ -21,6 +21,7 @@ namespace LinqExercise
              */
 
             //TODO: Print the Sum of numbers
+            Console.WriteLine(numbers.Sum());
 
             //TODO: Print the Average of numbers
 
